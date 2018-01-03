@@ -1,0 +1,65 @@
+2018-01-03 16:06:29 [ main:0 ] - [ INFO ] 异常信息
+2018-01-03 16:15:59 [ main:0 ] - [ INFO ] 异常信息
+2018-01-03 16:15:59 [ main:1 ] - [ INFO ] java.lang.NullPointerException
+2018-01-03 16:27:01 [ main:0 ] - [ INFO ] 异常信息
+2018-01-03 16:27:01 [ main:1 ] - [ INFO ] java.lang.NullPointerException
+2018-01-03 16:27:01 [ main:2 ] - [ INFO ] 
+2018-01-03 16:41:43 [ main:0 ] - [ INFO ] 12
+2018-01-03 16:41:53 [ main:0 ] - [ INFO ] null
+2018-01-03 16:42:01 [ main:0 ] - [ INFO ] 0
+2018-01-03 16:42:11 [ main:0 ] - [ INFO ] null
+2018-01-03 16:42:27 [ main:0 ] - [ INFO ] 异常信息
+2018-01-03 16:42:27 [ main:1 ] - [ INFO ] java.lang.NullPointerException
+2018-01-03 16:42:41 [ main:0 ] - [ INFO ] 异常信息
+2018-01-03 16:42:41 [ main:1 ] - [ INFO ] java.lang.NullPointerException
+2018-01-03 16:42:41 [ main:1 ] - [ INFO ] 
+2018-01-03 16:43:19 [ main:0 ] - [ INFO ] 异常信息
+2018-01-03 16:43:19 [ main:1 ] - [ INFO ] java.lang.NullPointerException
+2018-01-03 16:43:19 [ main:1 ] - [ INFO ] dAnullAd
+2018-01-03 16:43:41 [ main:0 ] - [ INFO ] 异常信息
+2018-01-03 16:43:41 [ main:1 ] - [ INFO ] java.lang.NullPointerException
+2018-01-03 16:43:41 [ main:1 ] - [ INFO ] 
+2018-01-03 16:43:56 [ main:0 ] - [ INFO ] 异常信息
+2018-01-03 16:43:56 [ main:1 ] - [ INFO ] java.lang.NullPointerException
+2018-01-03 16:43:56 [ main:1 ] - [ INFO ] nullcxz
+2018-01-03 16:44:06 [ main:0 ] - [ INFO ] 异常信息
+2018-01-03 16:44:06 [ main:1 ] - [ INFO ] java.lang.NullPointerException
+2018-01-03 16:44:06 [ main:1 ] - [ INFO ] null::cxz
+2018-01-03 16:47:35 [ main:0 ] - [ INFO ] null::cxz
+2018-01-03 16:47:35 [ main:1 ] - [ INFO ] 异常信息
+2018-01-03 16:47:35 [ main:1 ] - [ INFO ] java.lang.NullPointerException
+2018-01-03 16:48:03 [ main:0 ] - [ INFO ] null123
+2018-01-03 16:48:03 [ main:1 ] - [ INFO ] 异常信息
+2018-01-03 16:48:03 [ main:2 ] - [ INFO ] java.lang.NullPointerException
+2018-01-03 16:48:18 [ main:0 ] - [ INFO ] null<>123
+2018-01-03 16:48:18 [ main:1 ] - [ INFO ] 异常信息
+2018-01-03 16:48:18 [ main:1 ] - [ INFO ] java.lang.NullPointerException
+2018-01-03 17:00:47 [ main:0 ] - [ INFO ] null<>123
+2018-01-03 17:01:38 [ main:0 ] - [ INFO ] null<>123
+2018-01-03 17:01:38 [ main:0 ] - [ INFO ] 异常信息
+2018-01-03 17:01:38 [ main:1 ] - [ INFO ] java.lang.NullPointerException
+2018-01-03 17:03:30 [ main:0 ] - [ INFO ] null<>123
+2018-01-03 17:03:56 [ main:0 ] - [ INFO ] null<>123
+2018-01-03 17:03:56 [ main:0 ] - [ INFO ] 异常信息
+2018-01-03 17:03:56 [ main:1 ] - [ INFO ] java.lang.NullPointerException
+2018-01-03 17:04:21 [ main:0 ] - [ INFO ] null<>123
+2018-01-03 17:04:21 [ main:0 ] - [ INFO ] 异常信息
+2018-01-03 17:04:21 [ main:0 ] - [ INFO ] java.lang.NullPointerException
+2018-01-03 17:07:06 [ main:0 ] - [ INFO ] 
+2018-01-03 17:07:06 [ main:0 ] - [ INFO ] 异常信息
+2018-01-03 17:07:06 [ main:1 ] - [ INFO ] java.lang.NullPointerException
+2018-01-03 17:07:17 [ main:0 ] - [ INFO ] nullasd
+2018-01-03 17:07:17 [ main:1 ] - [ INFO ] 异常信息
+2018-01-03 17:07:17 [ main:1 ] - [ INFO ] java.lang.NullPointerException
+2018-01-03 17:50:47 [ main:0 ] - [ INFO ] 
+2018-01-03 17:50:47 [ main:0 ] - [ INFO ] 异常信息
+2018-01-03 17:50:47 [ main:1 ] - [ INFO ] java.lang.NullPointerException
+2018-01-03 17:52:01 [ main:0 ] - [ INFO ] 
+2018-01-03 17:52:01 [ main:1 ] - [ INFO ] 异常信息
+2018-01-03 17:52:01 [ main:1 ] - [ INFO ] java.lang.NullPointerException
+2018-01-03 17:52:19 [ main:0 ] - [ INFO ] 
+2018-01-03 17:52:19 [ main:1 ] - [ INFO ] 异常信息
+2018-01-03 17:52:19 [ main:1 ] - [ INFO ] java.lang.NullPointerException
+2018-01-03 17:52:38 [ main:0 ] - [ INFO ] 
+2018-01-03 17:52:38 [ main:0 ] - [ INFO ] 异常信息
+2018-01-03 17:52:38 [ main:0 ] - [ INFO ] java.lang.NullPointerException
